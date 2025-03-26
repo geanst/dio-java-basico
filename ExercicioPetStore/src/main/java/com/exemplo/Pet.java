@@ -1,3 +1,5 @@
+package com.exemplo;
+
 public class Pet {
     private boolean isClean;
     final private String petName;

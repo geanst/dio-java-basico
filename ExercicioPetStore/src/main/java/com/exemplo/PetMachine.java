@@ -1,3 +1,5 @@
+package com.exemplo;
+
 public class PetMachine {
     private boolean isClean;
     private int water;
